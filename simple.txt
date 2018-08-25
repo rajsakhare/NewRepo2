@@ -1,0 +1,3 @@
+s one is a simple file
+;wq1
+
